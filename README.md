@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi,I'm Hui Hola</h1>
 <h3 align="center">A passionate penetration tester from India</h3>
-<img align="right" alt="coding gif" width="400" src="https://github.com/HuiHola/HuiHola/blob/main/Your%20paragraph%20text.gif"/>
+<!-- <img align="right" alt="coding gif" width="400" src="https://github.com/HuiHola/HuiHola/blob/main/Your%20paragraph%20text.gif"/> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huihola&label=Profile%20views&color=0e75b6&style=flat" alt="huihola" /> </p>
 
