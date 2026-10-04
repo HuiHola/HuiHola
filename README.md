@@ -1,28 +1,221 @@
+# 👋 Hey, I'm **Hui Hola**
 
-<h1 align="center">Hi,I'm Hui Hola</h1>
-<h3 align="center">A passionate penetration tester from India</h3>
-<!-- <img align="right" alt="coding gif" width="400" src="https://github.com/HuiHola/HuiHola/blob/main/Your%20paragraph%20text.gif"/> -->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=huihola&label=Profile%20views&color=0e75b6&style=flat" alt="huihola" /> </p>
-
-- 🌱 I’m currently learning **Bug Bounty**
-
-- 💬 Ask me about **API development and Android development**
-
-- 📫 How to reach me **huihola001no@gmail.com**
-
-- ⚡ Fun fact **I love Android Malware Development**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=Developer;Cybersecurity+Enthusiast;Open+Source+Builder;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/huihola">
+    <img src="https://img.shields.io/github/followers/huihola?style=for-the-badge&logo=github&label=Followers" />
+  </a>
+  <a href="https://github.com/huihola?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://huihola.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-00ff88?style=for-the-badge&logo=googlechrome&logoColor=black" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=huihola&show_icons=true&locale=en&layout=compact" alt="huihola" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huihola&show_icons=true&locale=en" alt="huihola" /></p>
+## 🧑‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huihola&" alt="huihola" /></p>
+```text
+┌──────────────────────────────────────────────┐
+│                                              │
+│  > whoami                                    │
+│                                              │
+│  Developer building things from scratch.     │
+│  Interested in cybersecurity, systems,       │
+│  automation, networking and open source.     │
+│                                              │
+│  I like understanding how things work        │
+│  instead of only learning how to use them.   │
+│                                              │
+└──────────────────────────────────────────────┘
+```
 
+* 🔐 Exploring **Cybersecurity & Ethical Hacking**
+* 🐍 Building tools with **Python**
+* ☕ Developing applications with **Java**
+* 🌐 Working with **Web Technologies & APIs**
+* 🐧 Daily driver: **Linux**
+* 🔧 Interested in **Networking, Systems & Embedded Development**
+* 🚀 Building and experimenting with **Open Source projects**
+* 📚 Always learning something new
+
+---
+
+## ⚡ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,bash" />
+</p>
+
+### Web & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express" />
+</p>
+
+### Android
+
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,java" />
+</p>
+
+### Tools & Environment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,kali,git,github,vim,neovim,vscode,arduino" />
+</p>
+
+---
+
+## 🔐 Cybersecurity
+
+```text
+╭──────────────────────────────────────────────╮
+│                  SECURITY                    │
+├──────────────────────────────────────────────┤
+│                                              │
+│  ▸ Network Security                          │
+│  ▸ Linux & System Administration             │
+│  ▸ Python Security Automation                │
+│  ▸ Web Security                              │
+│  ▸ Packet Analysis                           │
+│  ▸ Vulnerability Research                    │
+│  ▸ CTF & Security Labs                       │
+│                                              │
+╰──────────────────────────────────────────────╯
+```
+
+Currently learning:
+
+```text
+[██████████████████░░] Linux & Networking
+[███████████████░░░░░] Web Security
+[████████████░░░░░░░░] Malware Analysis
+[██████████░░░░░░░░░░] Binary Exploitation
+[████████░░░░░░░░░░░░] Reverse Engineering
+```
+
+---
+
+## 🚀 Featured Projects
+
+### 🔎 Project One
+
+> Short description of your project.
+
+**Tech:** `Python` `Linux` `Networking`
+
+[View Project →](https://github.com/huihola/difi.git)
+
+---
+
+### 📱 Project Two
+
+> Short description of your project.
+
+**Tech:** `Java` `Android`
+
+[View Project →](https://github.com/finddroid/finddroid.git)
+
+---
+
+### 🛠️ Project Three
+
+> Short description of your project.
+
+**Tech:** `JavaScript` `Node.js` `Express`
+
+[View Project →](https://github.com/huihola/RAMA.git)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=huihola&show_icons=true&theme=transparent&hide_border=true&title_color=00ff88&icon_color=00ff88&text_color=ffffff" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huihola&theme=transparent&hide_border=true&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" height="170" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=huihola&bg_color=00000000&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true" />
+</p>
+
+---
+
+## 🧰 What I'm Working On
+
+```text
+┌─ ~/projects
+│
+├── 🔐 cybersecurity-tools/
+├── 🐍 python-automation/
+├── 📱 android-projects/
+├── 🌐 web-projects/
+├── 🔌 embedded-systems/
+└── 🧪 experiments/
+```
+
+> Building. Breaking. Understanding. Rebuilding. 🔥
+
+---
+
+## 🌱 Currently Learning
+
+* Linux internals
+* Computer networking
+* Web application security
+* Python security tooling
+* C/C++ internals
+* Reverse engineering
+* Low-level programming
+* System design
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/HuiHola">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <!-- <a href="https://linkedin.com/in/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff88" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff88" />
+  </a> -->
+  <a href="https://huihola.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=00ff88" />
+  </a>
+</p>
+
+---
+
+## 💭 Philosophy
+
+```text
+"If others can do something easily but it's hard for you, learn something that is easy for you but hard for others."
+
+                    — Keep learning.
+```
+
+---
+
+<p align="center">
+
+### `> echo "Thanks for visiting my profile!"`
+
+<img src="https://komarev.com/ghpvc/?username=huihola&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS" />
+
+</p>
