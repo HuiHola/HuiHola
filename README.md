@@ -108,7 +108,7 @@ Currently learning:
 
 ### 🔎 Project One
 
-> Short description of your project.
+> Difi is a Python tool for scanning and deauthenticating nearby Wi-Fi .
 
 **Tech:** `Python` `Linux` `Networking`
 
@@ -118,7 +118,7 @@ Currently learning:
 
 ### 📱 Project Two
 
-> Short description of your project.
+> FindDroid is an open-source Android application built to help users recover and control their devices remotely.
 
 **Tech:** `Java` `Android`
 
@@ -128,7 +128,7 @@ Currently learning:
 
 ### 🛠️ Project Three
 
-> Short description of your project.
+> Remote Access Malware for Android.
 
 **Tech:** `JavaScript` `Node.js` `Express`
 
